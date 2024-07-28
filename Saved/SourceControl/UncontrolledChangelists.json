@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/__ExternalObjects__/Levels/Main/B/VE/ICL885PAW98W9LLLTGRQAW.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/Levels/Main.umap",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/BPs/BP_Enemy.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/__ExternalActors__/Levels/Main/1/A0/6P5BTQLQBB1EMR0QMT74OK.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/__ExternalActors__/Levels/Main/3/5W/ACDFVCRA2U3DEZP8TPE0KH.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/__ExternalActors__/Levels/Main/2/D4/122AWGGTJEEO7S1GXMY23X.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/SCP049-Hide-and-Seek/Content/UI/WBP_HUD.uasset"
+			]
+		}
+	]
+}
