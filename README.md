@@ -9,7 +9,7 @@ This game was made with [Unreal Engine](https://www.unrealengine.com/fr) using B
 
 ## Demo
 
-https://youtu.be/qi9M0PM-KE0
+https://github.com/user-attachments/assets/72b4a024-a13d-4567-98c0-705d92f2e369
 
 ## Features  
 
